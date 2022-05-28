@@ -1,0 +1,17 @@
+[{
+    "username": "paolo",
+    "firstName": "paolo",
+    "lastName": "siroko",
+    "gender": "Male",
+    "profileURL": "img/impala.jpg",
+    "email": "paolo.siroko@example.com"
+},
+{
+    "username": "angela",
+    "firstName": "small",
+    "lastName": "angela",
+    "gender": "Female",
+    "profileURL": "img/impala.jpg",
+    "email": "small.angela@example.com"
+}
+]
