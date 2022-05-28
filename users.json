@@ -1,9 +1,9 @@
 [{
-    "username": "paolo",
-    "firstName": "paolo",
-    "lastName": "siroko",
+    "username": "time",
+    "firstName": "The time is ",
+    "lastName": "Now",
     "gender": "Male",
-    "profileURL": "img/impala.jpg",
+    "profileURL": "img/time.gif",
     "email": "paolo.siroko@example.com"
 },
 {
